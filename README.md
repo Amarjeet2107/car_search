@@ -1,2 +1,13 @@
-# car_search
-This is a small Python project that helps you find the specifications of any car by just typing its name. It searches for the car on Google, opens its Wikipedia page, and shows the details like engine, body type, dimensions, etc.
+# CarSearch - Simple Python Car Finder
+
+This is a beginner-friendly Python project that lets you search for cars by brand, model, price, or year from a dataset.
+
+### 📦 Features
+- Search by keyword or price range
+- Simple CLI (command line interface)
+- Easy to extend
+
+### 🏁 How to Run
+
+```bash
+python carsearch.py
